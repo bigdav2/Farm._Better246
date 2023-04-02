@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Farm Better</string>
+    <string name="farmbetter">FarmBetter</string>
+    <string name="buy_medicine">BUY MEDICINE</string>
+    <string name="todo">TODO</string>
+    <string name="lab_test">LAB TEST</string>
+    <string name="extension_worker">EXTENSION WORKER</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="advisor">ADVISOR</string>
+    <string name="advisory">ADVISOR</string>
+    <string name="ima">TODO</string>
+    <string name="ima2">TODO</string>
+    <string name="ima3">TODO</string>
+    <string name="logout">LOGOUT</string>
+    <string name="register_for_new_users">Register for new users.</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="login1">Login</string>
+    <string name="farmbetter2">FarmBetter</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="passwords">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="farmbetterss">FarmBetter</string>
+    <string name="registration">Registration</string>
+    <string name="usernames">Username</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+</resources>
